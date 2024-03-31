@@ -4,6 +4,3 @@ def fac(num):
     else:
         return (num *fac(num-1))
 print(fac(5))
-
-
-print("hell")
